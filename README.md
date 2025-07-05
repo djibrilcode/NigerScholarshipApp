@@ -1,2 +1,2 @@
 # NigerScholarshipApp
-An scholarship that allow student  applying  for available scholarship
+An Fullstack scholarship APP that allow students applying for available scholarship in Niger and all over the world
